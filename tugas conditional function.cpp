@@ -10,6 +10,9 @@ int main(){
     cout <<"Masukkan tinggi badan : ";
     cin >> dataTB;
 
-    
+    float bmi = dataBB/(dataTB*dataTB);
+        if (bmi < 18.5)
+            status ="Berat Badan Kurang";
+        
 
 }
