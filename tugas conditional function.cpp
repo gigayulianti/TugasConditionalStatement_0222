@@ -6,6 +6,10 @@ int main(){
     string status;
 
     cout <<"Masukkan berat badan : ";
+    cin >> dataBB;
+    cout <<"Masukkan tinggi badan : ";
+    cin >> dataTB;
+
     
 
 }
