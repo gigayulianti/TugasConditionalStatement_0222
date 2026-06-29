@@ -23,5 +23,12 @@ int main(){
     cout << "--- Selamat Datang Mahasiswa Kelas A 2025 ---" <<endl;
 
 
-   
+    cout << "\n---Hasil---"<<endl;
+    cout << "BMI Anda = " <<bmi<<endl;
+
+    cout << "Status = "<<status<<endl;
+    
+
+    return 0;
+
 }
