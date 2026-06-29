@@ -5,5 +5,7 @@ int main(){
     float dataBB,dataTB;
     string status;
 
+    cout <<"Masukkan berat badan : ";
     
+
 }
