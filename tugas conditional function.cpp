@@ -20,6 +20,8 @@ int main(){
         else
             status ="Obesitas";
     
-    
+    cout << "--- Selamat Datang Mahasiswa Kelas A 2025 ---" <<endl;
 
+
+   
 }
